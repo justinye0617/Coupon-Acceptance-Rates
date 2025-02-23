@@ -1,6 +1,6 @@
 # Coupon-Acceptance-Rates
 
-#Project Overview:
+**Project Overview:**
 This project investigates factors influencing whether drivers accept coupons for restaurants, bars, coffee houses, and carryout orders. The goal is to compare behavioral and demographic differences between customers who accept coupons and those who do not, providing insights for more targeted marketing strategies.
 
 #Data and Methodology
