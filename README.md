@@ -1,6 +1,6 @@
 # Coupon-Acceptance-Rates
 
-# **Project Overview:**
+# **Project Overview**
 This project investigates factors influencing whether drivers accept coupons for restaurants, bars, coffee houses, and carryout orders. The goal is to compare behavioral and demographic differences between customers who accept coupons and those who do not, providing insights for more targeted marketing strategies.
 
 ## **Data and Methodology**
@@ -44,7 +44,7 @@ Social Diners: Those dining with partners or friends are the most receptive, wit
 
 Lower Engagement: Commuters and customers impacted by adverse weather conditions show lower acceptance rates (45.24% and 25.37%, respectively).
 
-## **Conclusion:**
+## **Conclusion**
 Targeted Marketing: Younger, budget-conscious, and socially active customers (e.g., those dining with partners or friends) are most likely to accept coupons.
 
 Behavioral Insights: Frequent visits to a specific type of establishment, whether it’s a bar or an inexpensive restaurant, strongly predict coupon acceptance.
