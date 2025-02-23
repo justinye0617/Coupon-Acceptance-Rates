@@ -22,6 +22,8 @@ Passenger and Occupation Influence: Drivers without kids as passengers and with 
 
 Conclusion: These findings suggest that frequent bar visits, older age, and certain social/occupational contexts correlate with higher coupon acceptance.
 
+
+
 ### **Restaurant (<$20) Coupons:**
 Budget-Friendly Diners: Customers who dine frequently at inexpensive restaurants and earn less than $75K have an acceptance rate of approximately 72.5%.
 
@@ -30,6 +32,7 @@ Young Buyers: Under 30 drivers who frequently purchase takeaway food show simila
 Social Dining: Those who dine with partners or friends and also visit coffee houses are the most responsive (84.9% acceptance).
 
 Additional Factors: Fast food diners with low-to-mid incomes accept coupons at 69.8%, while drivers on strict schedules and in bad weather conditions are less receptive (57.1% and 32.3%, respectively).
+
 
 
 ### **Restaurant ($20-$50) Coupons:**
