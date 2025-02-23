@@ -6,7 +6,7 @@ This project investigates factors influencing whether drivers accept coupons for
 #Data and Methodology
 Data Source: Amazon Mechanical Turk (UCI Machine Learning Repository)
 
-Key Attributes: Destination, passenger type, weather, time, coupon type, age, income, marital status, education, and frequency of visits )bars, restaurants, coffee houses, etc.)
+Key Attributes: Destination, passenger type, weather, time, coupon type, age, income, marital status, education, and frequency of visits (bars, restaurants, coffee houses, etc.)
 
 Data Preparation: Handled missing values by replacing them with the model for categorical or median for numerical values and also removed duplicated records.
 
