@@ -36,7 +36,7 @@ Additional Factors: Fast food diners with low-to-mid incomes accept coupons at 6
  
 
 ### **Restaurant ($20-$50) Coupons:**
-Middle-Aged Moderate Diners: Customers aged 30–50 with moderate
+Middle-Aged Moderate Diners: Customers aged 30–50 with moderate dining frequency and income levels have an acceptance rate of around 41.6%.
 
 Young Budget-Conscious: Younger diners with lower incomes show a slightly higher acceptance rate (53.97%).
 
